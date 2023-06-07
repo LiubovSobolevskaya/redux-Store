@@ -1,6 +1,7 @@
 # Redux Store
 
 17th Assignment of UCB Extension Web Development Bootcamp
+Please visit the deployed [website](https://redux-shop-luba.herokuapp.com/).
 
 ## Description
 
@@ -16,6 +17,12 @@ When it comes to dispatching actions, the application relies on Redux's dispatch
 
 Overall, the web application has chosen to leverage Redux for global state management, providing a reliable and scalable solution for handling complex state interactions. By utilizing Redux instead of the Context API, the application benefits from a mature and widely adopted library that offers robust tools for managing state in a predictable and efficient manner.
 
+## Requirements
+```
+npm run install
+npm run seed
+npm run develop
+```
 
 ---
 
