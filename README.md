@@ -1,6 +1,6 @@
 # Redux Store
 
-17th Assignment of UCB Extension Web Development Bootcamp
+17th Assignment of UCB Extension Web Development Bootcamp.<br>
 Please visit the deployed [website](https://redux-shop-luba.herokuapp.com/).
 
 ## Description
